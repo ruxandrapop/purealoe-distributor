@@ -4,23 +4,23 @@
   "env": {
     "SF_CLIENT_ID": {
         "description": "Consumer key of your Salesforce Connected App",
-        "value":""
+        "value":"3MVG9fTLmJ60pJ5IeP3iJ0cu7.a7igbX6C8LFrSm21aCqiMYURp3oUqiRI3QaHY8FxjJmovn8GvEV_3rhfy5M"
     },
     "SF_CLIENT_SECRET": {
         "description": "Consumer secret of your Salesforce Connected App",
-        "value":""
+        "value":"6215417259325037513"
     },
     "SF_USER_NAME": {
         "description": "Salesforce username for your integration user",
-        "value":""
+        "value":"rpop@curious-hawk-3kdjuj.com"
     },
     "SF_USER_PASSWORD": {
         "description": "Salesforce password for your integration user",
-        "value":""
+        "value":"ShoboBobo29"
     },
     "SF_ENVIRONMENT": {
         "description": "production or sandbox",
-        "value":"sandbox"
+        "value":"production"
     }
   }
 }
