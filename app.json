@@ -16,7 +16,7 @@
     },
     "SF_USER_PASSWORD": {
         "description": "Salesforce password for your integration user",
-        "value":"ShoboBobo29Am6L8nNo1k0aO3ssF6sxrTAol"
+        "value":"ShoboBobo29"
     },
     "SF_ENVIRONMENT": {
         "description": "production or sandbox",
